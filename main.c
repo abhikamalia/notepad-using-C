@@ -8,10 +8,7 @@ int i;
 //#define MAX_DELETE 31
 char heading_data[MAX_HEADING];
 char text_data[MAX_TEXT];
-//int *deleted_heading[MAX_DELETE];
-//int *deleted_text[MAX_DELETE];
-//int top_heading = -1;
-//int top_text = -1;
+
 
 
 
